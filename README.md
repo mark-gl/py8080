@@ -1,7 +1,7 @@
 # py8080
 
 
-![Screenshot](https://i.imgur.com/OBVL5ez.png "Screenshot")
+![Screenshot](image.png "Screenshot")
 
 py8080, upgraded to include a resizable window, audio, and TV/Midway colours for Space Invaders. I've also implemented the remaining CPU instructions, so it passes the CPUDIAG.asm test.
 
